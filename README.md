@@ -6,4 +6,4 @@ generate findViewById code in kotlin
 
 ## Download
 1. https://plugins.jetbrains.com/plugin/12986-kotlin-find-view-by-id
-2. 
+2. install KotlinFIndVIewById.jar file
