@@ -1,10 +1,10 @@
 <idea-plugin>
-  <id>com.maoqis.delegatefindview.id</id>
-  <name>delegate find view</name>
-  <version>1.1</version>
+  <id>com.maoqis.KotlinFindVIewById.id</id>
+  <name>Kotlin Find View By Id</name>
+  <version>1.1.1</version>
   <vendor email="maoqis@163.com" url="">maoqis</vendor>
 
-  <description>find id by layout in kotlin, choose the layout name,then  enter generate to start </description>
+  <description>KotlinFindVIewById generate findViewById code in kotlin, choose the layout name,then  enter generate to start </description>
 
   <change-notes>
     first version find id by layout in kotlin, choose the layout name,then  enter generate to start
@@ -25,8 +25,8 @@
 
   <actions>
 
-    <action id="delegateFindView" class="actions.DelegateViewByIdAction" text="delegateFindView"
-            description="delegateFindView">
+    <action id="KotlinFIndVIewById" class="actions.DelegateViewByIdAction" text="KotlinFIndVIewById"
+            description="KotlinFIndVIewById">
       <add-to-group group-id="CodeMenu" anchor="first"/>
       <add-to-group group-id="GenerateGroup" anchor="first"/>
     </action>
