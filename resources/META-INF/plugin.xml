@@ -4,7 +4,7 @@
   <version>1.1</version>
   <vendor email="maoqis@163.com" url="">maoqis</vendor>
 
-  <description>find id by layout in kotlin, choose the layout name,then  enter generate to start </description>
+  <description>find layout view by id in kotlin, choose the layout name,then  enter generate to start </description>
 
   <change-notes>
     first version find id by layout in kotlin, choose the layout name,then  enter generate to start
