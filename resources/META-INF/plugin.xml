@@ -25,8 +25,8 @@
 
   <actions>
 
-    <action id="delegateFindView" class="actions.DelegateViewByIdAction" text="delegateFindView"
-            description="delegateFindView">
+    <action id="KotlinFIndVIewById" class="actions.DelegateViewByIdAction" text="KotlinFIndVIewById"
+            description="KotlinFIndVIewById">
       <add-to-group group-id="CodeMenu" anchor="first"/>
       <add-to-group group-id="GenerateGroup" anchor="first"/>
     </action>
