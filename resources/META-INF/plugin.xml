@@ -1,6 +1,6 @@
 <idea-plugin>
-  <id>com.maoqis.delegatefindview.id</id>
-  <name>delegate find view</name>
+  <id>com.maoqis.KotlinFindVIewById.id</id>
+  <name>KotlinFindVIewById</name>
   <version>1.1</version>
   <vendor email="maoqis@163.com" url="">maoqis</vendor>
 
