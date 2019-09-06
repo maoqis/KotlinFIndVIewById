@@ -1,2 +1,3 @@
 # KotlinFIndVIewById
-generate findViewById code inkotlin
+generate findViewById code in kotlin
+
